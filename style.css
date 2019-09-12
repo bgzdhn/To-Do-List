@@ -1,0 +1,31 @@
+body {
+  background-color: darkkhaki;
+  margin: 50px;
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+  border-radius: 20px;
+  background-color: cyan;
+  width: 250px;
+  height: 40px;
+  box-shadow: 5px 5px 5px #888;
+  padding: 10px;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+li:hover {
+	background-color: lightblue;
+}
+
+#message {
+	color: red;
+	font-size: 20px;
+}
+
+#complete {
+	color: darkgreen;
+	font-size: 20px;
+}
